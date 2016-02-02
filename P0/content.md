@@ -29,7 +29,7 @@ Link: [mikeash.com/pyblog](https://mikeash.com/pyblog/)
 
 ##NSBrief
 
-NSBrief is a very entertaining podcast that doesn't only cover technical topics. Each episode introduces an interesting iOS developer from the community. The episodes are recorded in an interview style, mixing personal questions with very technical ones. Until the end of 2014 this podcast was run by [Saul Mora](https://twitter.com/casademora), the developer of Magical Record. Now [Janie Clayton](@redqueencoder) is hosting the show. It will be interesting to see if the format changes a little.
+NSBrief is a very entertaining podcast that doesn't only cover technical topics. Each episode introduces an interesting iOS developer from the community. The episodes are recorded in an interview style, mixing personal questions with very technical ones. Until the end of 2014 this podcast was run by [Saul Mora](https://twitter.com/casademora), the developer of Magical Record. Now [Janie Clayton](https://twitter.com/redqueencoder) is hosting the show. It will be interesting to see if the format changes a little.
 
 A great way to get to know more people in the iOS developer community.
 
